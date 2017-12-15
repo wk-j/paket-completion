@@ -25,6 +25,8 @@ NUGET
       System.Threading.Thread (>= 4.0)
       System.Threading.ThreadPool (>= 4.0.10)
       System.Threading.Timer (>= 4.0.1)
+    FSharp.Data (2.4.3)
+      Zlib.Portable (>= 1.11)
     Microsoft.NETCore.Platforms (2.0.1)
     Microsoft.NETCore.Targets (2.0)
     runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl (4.3.2)
@@ -395,3 +397,4 @@ NUGET
       Microsoft.NETCore.Platforms (>= 1.1)
       Microsoft.NETCore.Targets (>= 1.1)
       System.Runtime (>= 4.3)
+    Zlib.Portable (1.11)
